@@ -1,0 +1,304 @@
+.forum {
+    top: 34.5rem;
+    left: 4rem;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: var(--font-outfit);
+    width: 15.563rem;
+    height: 5.125rem;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .early-diagnosis-is,
+  .forum,
+  .pcos {
+    margin: 0;
+    position: absolute;
+    display: inline-block;
+  }
+  .early-diagnosis-is {
+    top: 12.688rem;
+    left: 0.681rem;
+    text-transform: capitalize;
+    width: 25.125rem;
+  }
+  .pcos {
+    top: 1.875rem;
+    left: 16.681rem;
+    font-size: var(--font-size-31xl);
+    font-weight: 800;
+    font-family: var(--font-outfit);
+    width: 9.813rem;
+    height: 7.438rem;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .frame-child {
+    position: absolute;
+    top: 0.688rem;
+    left: 0.681rem;
+    border-radius: 50%;
+    width: 10.188rem;
+    height: 9.813rem;
+  }
+  .early-diagnosis-is-key-to-empo-parent {
+    position: absolute;
+    top: 7.375rem;
+    left: 57.506rem;
+    border-radius: var(--br-26xl);
+    background: linear-gradient(
+      91.34deg,
+      #a0a8c4,
+      #e980df 28.5%,
+      #cf92c9 56.5%,
+      #de7fa5 96.5%
+    );
+    width: 24.494rem;
+    height: 18.625rem;
+    border-radius: 10%;
+    overflow: hidden;
+  }
+  .tap-button-child {
+    position: absolute;
+    height: 100%;
+    width: 93.48%;
+    top: 0;
+    right: 3.26%;
+    bottom: 0;
+    left: 3.26%;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro);
+  }
+  .arcticonstap-tap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 5.75rem;
+    height: 5.063rem;
+    overflow: hidden;
+  }
+  .tap-button {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    height: 7.91%;
+    width: 6.39%;
+    top: 46%;
+    right: 4.72%;
+    bottom: 46.09%;
+    left: 88.89%;
+  }
+  .save-life-by {
+    margin: 0;
+    position: absolute;
+    top: 12.813rem;
+    left: 0.681rem;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 25.125rem;
+  }
+  .cervical {
+    margin: 0;
+  }
+  .cervical-cancer {
+    margin: 0;
+    position: absolute;
+    top: 2.563rem;
+    left: 11.619rem;
+    font-size: var(--font-size-29xl);
+    font-weight: 800;
+    font-family: var(--font-outfit);
+    display: inline-block;
+    width: 15.625rem;
+    height: 7.625rem;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .frame-item {
+    position: absolute;
+    top: 1.438rem;
+    left: 0.681rem;
+    border-radius: 50%;
+    width: 10.188rem;
+    height: 9.813rem;
+    
+  }
+  .save-life-by-detecting-cervica-parent {
+    position: absolute;
+    top: 7.375rem;
+    left: 31.756rem;
+    border-radius: var(--br-26xl);
+    background: linear-gradient(
+      91.34deg,
+      #a0a8c4,
+      #e980df 28.5%,
+      #cf92c9 56.5%,
+      #de7fa5 96.5%
+    );
+    width: 24.494rem;
+    height: 18.625rem;
+    overflow: hidden;
+    mix-blend-mode: normal;
+    border-radius: 10%;
+
+  }
+  .tap-button1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    height: 7.91%;
+    width: 6.39%;
+    top: 45.02%;
+    right: 35.28%;
+    bottom: 47.07%;
+    left: 58.33%;
+  }
+  .breast-cancer,
+  .knowing-your-breasts {
+    margin: 0;
+    position: absolute;
+    top: 13.375rem;
+    left: 1.375rem;
+    display: inline-block;
+    width: 25.125rem;
+    
+  }
+  .breast-cancer {
+    top: 3rem;
+    left: 12.438rem;
+    font-size: var(--font-size-31xl);
+    font-weight: 800;
+    font-family: var(--font-outfit);
+    width: 16.188rem;
+    height: 12.563rem;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .frame-inner {
+    position: absolute;
+    top: 1.438rem;
+    left: 1.375rem;
+    width: 10.188rem;
+    height: 9.813rem;
+  }
+  .knowing-your-breasts-could-sav-parent {
+    position: absolute;
+    top: 7.375rem;
+    left: 4rem;
+    border-radius: var(--br-26xl);
+    background: linear-gradient(
+      91.34deg,
+      #a0a8c4,
+      #e980df 28.5%,
+      #cf92c9 56.5%,
+      #de7fa5 96.5%
+    );
+    width: 24.494rem;
+    height: 18.625rem;
+    overflow: hidden;
+    border-radius: 10%;
+    mix-blend-mode: normal;
+  }
+  .tap-button-inner,
+  .vector-icon,
+  .vector-icon1,
+  .vector-icon2 {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .tap-button-inner {
+    height: 100%;
+    width: 93.48%;
+    top: 0;
+    right: 3.26%;
+    bottom: 0;
+    left: 3.26%;
+    border-radius: 50%;
+  }
+  .vector-icon,
+  .vector-icon1,
+  .vector-icon2 {
+    height: 81.23%;
+    width: 53.26%;
+    top: 9.51%;
+    right: 23.37%;
+    bottom: 9.26%;
+    left: 23.37%;
+  }
+  .vector-icon1,
+  .vector-icon2 {
+    height: 30%;
+    width: 30.76%;
+    top: 20.62%;
+    right: 34.67%;
+    bottom: 49.38%;
+    left: 34.57%;
+  }
+  .vector-icon2 {
+    height: 16.3%;
+    width: 10%;
+    top: 34.32%;
+    right: 45.33%;
+    left: 44.67%;
+  }
+  .arcticonstap-tap2,
+  .tap-button2 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+  }
+  .arcticonstap-tap2 {
+    top: 0;
+    left: 0;
+    width: 5.75rem;
+    height: 5.063rem;
+    overflow: hidden;
+  }
+  .tap-button2 {
+    height: 7.91%;
+    width: 6.39%;
+    top: 45.21%;
+    right: 67.01%;
+    bottom: 46.88%;
+    left: 26.6%;
+  }
+  .ai-detection {
+    margin: 0;
+    position: absolute;
+    top: 2.813rem;
+    left:4rem;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: inherit;
+    display: inline-block;
+    height: 5.125rem;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .desktop-1 {
+    width: 100%;
+    position: relative;
+    background-color: #6f9dac;
+    filter: blur(0);
+    height: 30rem;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-alfa-slab-one);
+  }
+.accordion-item {
+  background-color: #DE7FA5; 
+}
+
+.accordion-button {
+  background-color: #6F9DAC; 
+  color: #000000;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #dddddd; 
+}
