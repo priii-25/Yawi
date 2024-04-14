@@ -1,0 +1,68 @@
+.body {
+    background-color: #6F9DAC; 
+    color: white; 
+}
+
+.form-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #6F9DAC; 
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    outline: 2px solid #ffffff; 
+}
+
+.prediction-result {
+    margin-top: 20px;
+    text-align: center;
+    color: #28a745; 
+}
+
+.prediction-result.high-risk {
+    color: #dc3545;
+}
+
+.form-container h1 {
+    text-align: center;
+    color: #343a40;
+}
+
+.form-container label {
+    display: block;
+    margin-bottom: 10px;
+    background-color: #6F9DAC; 
+}
+
+.form-container input,
+.form-container select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    background-color: #6F9DAC; 
+}
+
+.form-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5eff00;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-container button:hover {
+    background-color: #1302ff;
+}
+
+.prediction-result {
+    margin-top: 20px;
+    font-size: large;
+    font-weight: bold; /* Adjusted from 900px to bold for correct CSS value */
+    text-align: center;
+    color: #00ff3c;
+}
